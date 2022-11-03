@@ -1,1 +1,1 @@
-# placement
+Full-stack application developed using Django that helps institutes manage and record resumes of their students for the ease of connecting them to job opportunities. The application also has the feature where students can upload all their personal details for the placement officer to have a look at. Adding to all these, the placement officer can also send emails directly to the students from this application.
